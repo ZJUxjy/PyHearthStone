@@ -1,4 +1,4 @@
-from BaseCard import *
+from Card.BaseCard import *
 from enum import Enum, auto
 from abc import ABC, abstractmethod
 from typing import List, Optional, Any

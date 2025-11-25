@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CS2_029",
+    "name": "Fireball",
+    "type": "SPELL",
+    "cost": 4,
+    "rarity": "FREE",
+    "target_type": "ANY_TARGET",
+    "description": "Deal 6 damage.",
+    "effects": [
+      {
+        "action": "deal_damage",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "id": "CS2_120",
+    "name": "River Crocolisk",
+    "type": "MINION",
+    "cost": 2,
+    "attack": 2,
+    "health": 3,
+    "rarity": "FREE",
+    "race": "BEAST",
+    "description": "Standard 2/3 Beast"
+  }
+]
+
